@@ -10,9 +10,9 @@ The credit card customers dataset has all the variables that are related to the 
 - We have created new variables based on the analysis using DAX(Data Analysis Expression) queries to our tables
 - We used multiple visualizations like stacked bar charts, line charts, cards, tree maps, pie charts, slicers as per our requirements to extract the insights of the data.
 
-  ## Insights:
+## Insights:
   From the above analysis, we got the following insights:
-  # week on Week
+  ## week on Week
     - Revenue decreased by -12.8% in the 52nd week
     - Transaction amount decreased by -13.48% in the 52nd week
     - Transactions count decreased by -11.00% in the 52nd week
