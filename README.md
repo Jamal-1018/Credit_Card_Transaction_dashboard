@@ -4,12 +4,13 @@ To develop a comprehensive credit card weekly transactions dashboard that provid
 ## Dataset :
 It contains credit card transactions and credit card customer datasets. The credit card dataset has all the required variables to perform data visualization and data analysis to get all insights related to the weekly revenue, count of transactions, total interest earned, revenue basis on the job, education of the customer, type of chip transaction, type of card transaction, type of expenditure, and  overall view of the revenue and its key parameters of the dataset.
 The credit card customers dataset has all the variables that are related to the demographic metrics of the customer, geographic metrics of the customer, marital status, and financial status of the customer to get the insights that are understandable in the trends of the revenue, to get the positive impact on the business growth. 
-
+## Tools Used:
+- Microsoft Power BI
+- Data Sources( MYSQL, Excel)
 ## Process:
 - Initially, we imported the data from the MySQL server to the PowerBI
 - We have created new variables based on the analysis using DAX(Data Analysis Expression) queries to our tables
 - We used multiple visualizations like stacked bar charts, line charts, cards, tree maps, pie charts, and slicers as per our requirements to extract the insights of the data.
-
 ## Insights:
   From the above analysis, we got the following insights:
   ## week on week
